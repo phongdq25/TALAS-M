@@ -1,0 +1,639 @@
+phrase1,phrase2,sentence1,sentence2,label,idx
+board,board,room and board .,he nailed boards across the windows .,0,0
+circulate,circulate,circulate a rumor .,this letter is being circulated among the faculty .,0,1
+hook,hook,hook a fish .,"he hooked a snake accidentally , and was so scared he dropped his rod into the water .",1,2
+recreation,recreation,for recreation he wrote poetry and solved crossword puzzles .,drug abuse is often regarded as a form of recreation .,1,3
+domesticity,domesticity,making a hobby of domesticity .,a royal family living in unpretentious domesticity .,0,4
+acquisition,acquisition,the child 's acquisition of language .,that graphite tennis racquet is quite an acquisition .,0,5
+meeting,meeting,there was no meeting of minds .,the meeting elected a chairperson .,0,6
+nude,nude,they swam in the nude .,the marketing rule ' nude sells ' spread from verbal to visual mainstream media in the 20th century .,0,7
+mark,mark,he left an indelible mark on the american theater .,it was in london that he made his mark .,1,8
+association,association,conditioning is a form of learning by association .,many close associations with england .,0,9
+inclination,inclination,the alkaline inclination of the local waters .,an inclination of his head indicated his agreement .,0,10
+glaze,glaze,glaze the bread with eggwhite .,the potter glazed the dishes .,1,11
+piggyback,piggyback,an amendment to piggyback the current law .,he piggybacked her child so she could see the show .,0,12
+pick,pick,to pick rags .,do n't always pick on your little brother .,0,13
+belabor,belabor,belabor the obvious .,she was belabored by her fellow students .,0,14
+bell,bell,bell cows .,who will bell the cat ?,1,15
+tear,tear,he took the manuscript in both hands and gave it a mighty tear .,there were big tears rolling down lisa 's cheeks .,0,16
+kill,kill,kill the engine .,he killed the ball .,0,17
+analyze,analyze,analyze your real motives .,the inspector analyzed the building 's soundness .,1,18
+lecture,lecture,did you ever lecture at harvard ?,she lectured to the class about her travels .,1,19
+rehearsal,rehearsal,a rehearsal will be held the day before the wedding .,he missed too many rehearsals .,1,20
+forge,forge,we decided to forge ahead with our plans even though our biggest underwriter backed out .,he forged ahead .,1,21
+falsity,falsity,the belief that the world is flat is a falsity .,argument could not determine its truth or falsity .,1,22
+assurance,assurance,an assurance of help when needed .,his assurance in his superiority did not make him popular .,0,23
+branch,branch,a branch of congress .,we have branches in all major suburbs .,1,24
+fuzz,fuzz,he tried to clear his head of the whisky fuzz .,peach fuzz .,0,25
+risk,risk,i can not risk smoking .,why risk your life ?,1,26
+chemistry,chemistry,the chemistry of indigo .,the chemistry of iron .,1,27
+char,char,"“ among other native delicacies , they give you fresh char . ” .","“ i had to scrub the kitchen today , because the char could n't come ” .",0,28
+response,response,this situation developed in response to events in africa .,his responses have slowed with age .,0,29
+excuse,excuse,that thing is a poor excuse for a gingerbread man . has n't anyone taught you how to bake ?,he 's a sorry excuse of a doctor .,1,30
+bondage,bondage,he sought release from his bondage to satan .,a self freed from the bondage of time .,1,31
+catch,catch,the catch was only 10 fish .,he shared his catch with the others .,0,32
+shadiness,shadiness,there 's too much shadiness to take good photographs .,the shadiness of their transactions .,0,33
+passage,passage,the outward passage took 10 days .,she struggled to play the difficult passages .,0,34
+daughter,daughter,"i already have a son , so i would like to have a daughter .",her daughter cared for her in her old age .,1,35
+hold,hold,please hold a table at maxim 's .,hold a table for us at 7:00 .,1,36
+banish,banish,banish bad thoughts .,banish gloom .,1,37
+sense,sense,a keen musical sense .,a good sense of timing .,1,38
+opinion,opinion,"in my opinion , white chocolate is better than milk chocolate .",i would like to know your opinions on the new systems .,1,39
+deed,deed,he signed the deed .,i inherited the deed to the house .,1,40
+question,question,his claim to the property has come under question .,he obeyed without question .,1,41
+distribute,distribute,the publisher wants to distribute the book in asia .,the function distributes the values evenly .,0,42
+return,return,return her love .,return a compliment .,1,43
+officer,officer,he is an officer of the court .,the club elected its officers for the coming year .,1,44
+clutch,clutch,to clutch power .,she clutched her purse .,1,45
+dissipation,dissipation,the dissipation of the mist .,mindless dissipation of natural resources .,0,46
+portfolio,portfolio,he remembered her because she was carrying a large portfolio .,he holds the portfolio for foreign affairs .,0,47
+play,play,they gave full play to the artist 's talent .,it was all done in play .,0,48
+brush,brush,she gave her hair a quick brush .,the dentist recommended two brushes a day .,1,49
+rise,rise,they asked for a 10 % rise in rates .,the rising of the holy ghost .,0,50
+studio,studio,his studio was cramped when he began as an artist .,you do n't need a studio to make a passport photograph .,1,51
+cushion,cushion,to cushion a blow .,cushion the blow .,1,52
+plenty,plenty,there was plenty of food for everyone .,it must have cost plenty .,0,53
+look,look,a look of triumph .,his look was fixed on her eyes .,0,54
+recrudescence,recrudescence,a recrudescence of racism .,a recrudescence of the symptoms .,1,55
+metadata,metadata,most websites contain metadata to tell the computer how to lay the words out on the screen .,a library catalog is metadata because it describes publications .,1,56
+streak,streak,a streak of wildness .,he has a stubborn streak .,1,57
+elapse,elapse,he allowed a month to elapse before beginning the work .,several days elapsed before they met again .,1,58
+corner,corner,he tripled to the rightfield corner .,the southeastern corner of the mediterranean .,1,59
+average,average,he is about average in height .,the snowfall this month is below average .,1,60
+replicate,replicate,"on entering a host cell , a virus will start to replicate .",replicate the cell .,1,61
+wait,wait,she used to wait down at the dew drop inn .,wait here until your car arrives .,0,62
+bottom,bottom,they started at the bottom of the hill .,they did much of their overseas trade in foreign bottoms .,0,63
+straggle,straggle,a straggle of followers .,a straggle of outbuildings .,1,64
+torture,torture,in every war there are acts of torture that cause the world to shudder .,"using large dogs to attack bound , hand - cuffed prisoners is clearly torture .",1,65
+wash,wash,this silly excuse wo n't wash in traffic court .,the cat washes several times a day .,0,66
+seem,seem,i seem to be misunderstood by everyone .,there seems no reason to go ahead with the project now .,0,67
+jockey,jockey,he 's a truck jockey .,a disc jockey .,1,68
+sugar,sugar,sugar your tea .,john heavily sugars his coffee .,1,69
+load,load,load a car .,load the truck with hay .,1,70
+canon,canon,the neoclassical canon .,canons of polite society .,1,71
+upstage,upstage,she only wore that dress to upstage everyone .,"when the dog entered the stage , he upstaged the actress .",1,72
+ruin,ruin,this behavior will ruin your chances of winning the election .,the country lay ruined after the war .,0,73
+modify,modify,please modify this letter to make it more polite .,he modified his views on same - gender marriage .,1,74
+loose,loose,let loose mines .,loose terrible plagues upon humanity .,1,75
+breast,breast,he beat his breast in anger .,the robin has a red breast .,1,76
+invasion,invasion,an invasion of locusts .,an invasion of tourists .,1,77
+stay,stay,wear gloves so your hands stay warm .,"stay with me , please .",1,78
+chore,chore,"washing dishes is a chore , but we can not just stop eating .",the farmer 's morning chores .,1,79
+stripe,stripe,businessmen of every stripe joined in opposition to the proposal .,they earned their stripes in kuwait .,0,80
+sight,sight,he was a familiar sight on the television .,they went to paris to see the sights .,1,81
+potluck,potluck,here 's a good potluck of beans and stew .,having arrived unannounced we had to take potluck .,1,82
+push,push,you need to push quite hard to get this door open .,nora pushed through the crowd .,1,83
+nut,nut,he was driving his car like a nut .,i kicked him in the nuts .,0,84
+share,share,our children share a love of music .,the two countries share a long border .,1,85
+develop,develop,children must develop a sense of right and wrong .,we have developed a new theory of evolution .,0,86
+compress,compress,the force required to compress a spring varies linearly with the displacement .,she compressed her lips .,1,87
+pressure,pressure,he used pressure to stop the bleeding .,the sensitivity of his skin to pressure and temperature was normal .,0,88
+love,love,i love french food .,i loved to write .,1,89
+strike,strike,strike an arc .,the clock struck midnight .,0,90
+shtik,shtik,he 's a shtik crazy .,how did you ever fall for a shtik like that ?,0,91
+tremor,tremor,she felt a tremor in her stomach before going on stage .,did you feel the tremor this morning ?,0,92
+whitewash,whitewash,let 's not whitewash the crimes of stalin .,"in his sermon , the minister did n't try to whitewash over the sins of his church .",0,93
+bridge,bridge,her glasses left marks on the bridge of her nose .,rugby players often break the bridge of their noses .,1,94
+adoxography,adoxography,"elizabethan schoolboys were taught adoxography , the art of eruditely praising worthless things .",adoxography is particularly useful to lawyers .,1,95
+dexterity,dexterity,she twirled the knife through her fingers with impressive dexterity .,playing computer games can improve your manual dexterity .,1,96
+reflect,reflect,"people do that sort of thing every day , without ever stopping to reflect on the consequences .",the teacher 's ability reflects well on the school .,0,97
+harbour,harbour,the city has an excellent natural harbour .,the neighbourhood is a well - known harbour for petty thieves .,0,98
+absorb,absorb,absorb the costs for something .,he absorbed the knowledge or beliefs of his tribe .,0,99
+round,round,the round of the seasons .,the postman 's rounds .,0,100
+resolution,resolution,printing at higher resolution will cause a reduction in performance .,they never did achieve a final resolution of their differences .,0,101
+applaud,applaud,i applaud your efforts .,"although we do n't like your methods , we applaud your motives .",1,102
+trailer,trailer,the trailer for that movie makes it seem like it would be fun .,"at the end of the day , we put the snowmobiles back on the trailer .",0,103
+dinner,dinner,guests should never be late to a dinner party .,on sundays they had a large dinner when they returned from church .,0,104
+growth,growth,a growth of hair .,the growth of culture .,0,105
+buzz,buzz,the buzz of excitement was so great that a formal denial was issued .,the buzz of a bumble bee .,0,106
+beat,beat,in the old days a policeman walked a beat and knew all his people by name .,a beat of the heart .,0,107
+footprint,footprint,the computer had a desktop footprint of 10 by 16 inches .,the footprints of an earlier civilization .,0,108
+nowhere,nowhere,he came out of nowhere .,they went on a cruise to nowhere .,1,109
+mince,mince,a mince of mushrooms .,mince tastes really good fried in a pan with some chopped onion and tomato .,1,110
+militarize,militarize,militarize the civil service .,militarize germany again after the war .,0,111
+intention,intention,the intention of this legislation is to boost the economy .,good intentions are not enough .,1,112
+submerge,submerge,submerge your head completely .,the submarine submerged in the water .,0,113
+amuse,amuse,i watch these movies because they amuse me .,the clown amused the children .,1,114
+calibrate,calibrate,calibrate a gun .,he calibrated the thermometer for the celsius scale .,0,115
+circumference,circumference,a danger to all races over the whole circumference of the globe .,he had walked the full circumference of his land .,1,116
+tap,tap,tap a keg of beer .,tap a maple tree for its syrup .,1,117
+branch,branch,we opened a new branch in london .,our main branch is downtown .,1,118
+peradventure,peradventure,this proves beyond peradventure that he is innocent .,proved beyond peradventure . — south .,1,119
+finish,finish,my horse was several lengths behind at the finish .,the winner is the team with the most points at the finish .,1,120
+kick,kick,the kick must be synchronized with the arm movements .,a sidecar is a smooth drink but it has a powerful kick .,0,121
+month,month,he was given a month to pay the bill .,we went on holiday for two months .,1,122
+contradistinction,contradistinction,sculpture in contradistinction to painting .,we used hamburgers and soda in contradistinction to healthy food .,1,123
+remove,remove,remove a wrapper .,the president removed many postmasters .,0,124
+crash,crash,"you can crash here , though it 's not very comfortable .",the terrorists crashed the plane into the palace .,0,125
+smoothness,smoothness,the weather system of the pacific is determined by the uninterrupted smoothness of the ocean .,his oily smoothness concealed his guilt from the police .,0,126
+exhibition,exhibition,there was an art exhibition on in the town hall .,a boat exhibition .,1,127
+cloister,cloister,cloister the garden .,she cloistered herself in the office .,0,128
+maneuver,maneuver,he made a great maneuver .,parallel parking can be a difficult maneuver .,1,129
+mess,mess,the house was a mess .,my boss dumped a whole mess of projects on my desk today .,0,130
+burn,burn,burn a cd .,my eyes are burning .,0,131
+knuckleball,knuckleball,even the pitcher does n't know where his knuckleball is going .,boston red sox pitcher tim wakefield is best known for his use of the knuckleball .,1,132
+map,map,map the genes .,map the surface of venus .,0,133
+mandate,mandate,mandate a colony .,the new director of the school board mandated regular tests .,0,134
+way,way,they did n't have much in the way of clothing .,we went our separate ways .,0,135
+shock,shock,to shock rye .,shock grain .,1,136
+tipper,tipper,a generous tipper .,the americans are among the most generous tippers in the world .,1,137
+avail,avail,it will avail them to dispose of their booty .,he availed himself of the available resources .,0,138
+button,button,"the politician wore a bright yellow button with the slogan "" vote smart "" emblazoned on it .",they passed out campaign buttons for their candidate .,1,139
+crop,crop,the annual crop of students brings many new ideas .,the latest crop of fashions is about to hit the stores .,0,140
+boot,boot,boot your computer .,"when arriving at the office , first thing i do is booting my machine .",1,141
+heartbeat,heartbeat,the policeman waited for a heartbeat in vain .,he alone gives me such heartbeats .,1,142
+drag,drag,time seems to drag when you 're waiting for a bus .,the speech dragged on for two hours .,0,143
+chisel,chisel,chisel the marble .,who 's chiseling on the side ?,0,144
+literature,literature,one aspect of waterloo has not yet been treated in the literature .,the technical literature .,1,145
+snatch,snatch,martin 's snatch at the bridle failed and the horse raced away .,overheard snatches of their conversation .,0,146
+excite,excite,there are drugs designed to excite certain nerves in our body .,excite the audience .,1,147
+building,building,the entire building complained about the noise .,the building of the bridge will be completed in a couple of weeks .,0,148
+scallop,scallop,scallop the hem of the dress .,scallop the meat .,0,149
+date,date,scientists often can not date precisely archeological or prehistorical findings .,to date the building of the pyramids .,1,150
+exchange,exchange,they had a bitter exchange .,an exchange of cattle for grain .,0,151
+apology,apology,it was an apology for a meal .,the apology of socrates .,0,152
+spade,spade,she led a low spade .,spades were trumps .,1,153
+cocoon,cocoon,she loves to stay at home and cocoon .,families cocoon around the t.v. set most evenings .,1,154
+build,build,build up confidence .,they had to build up their fortress to protect against attack .,1,155
+winterize,winterize,winterize cars .,winterize your houses .,1,156
+wish,wish,he got his wish .,my best wishes .,0,157
+reinstatement,reinstatement,her reinstatement to her former office followed quickly .,many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement .,0,158
+watch,watch,put a little baking soda in some vinegar and watch what happens .,the world is watching sarajevo .,0,159
+installation,installation,he gave a speech as part of his installation into the hall of fame .,the telephone installation took only a few minutes .,0,160
+conceive,conceive,she can not conceive .,assisted procreation can help those trying to conceive .,1,161
+touch,touch,he could not touch the meaning of the poem .,helen keller felt the physical world by touching people and objects around her .,0,162
+percolate,percolate,percolate coffee .,i 'll percolate some coffee .,1,163
+drought,drought,when england defeated pakistan it ended a ten - year drought .,farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season .,0,164
+excite,excite,excite the neurons .,the fireworks which opened the festivities excited anyone present .,0,165
+pull,pull,a zipper pull .,he grabbed the pull and opened the drawer .,1,166
+fight,fight,a fight broke out at the hockey game .,there were fights in the streets .,1,167
+breed,breed,he experimented on a particular breed of white rats .,a breed of animal .,1,168
+mainstream,mainstream,his thinking was in the american mainstream .,"his ideas were well outside the mainstream , but he presented them intelligently , and we were impressed if not convinced .",1,169
+help,help,there 's no help for it .,i need some help with my homework .,0,170
+cognate,cognate,"english is a cognate of greek , german , russian and persian .","english and , russian , icelandic and irish are all cognates .",1,171
+convey,convey,to convey information .,she conveyed the message to me .,1,172
+profession,profession,a profession of disagreement .,my father was a barrister by profession .,0,173
+protest,protest,the senator rose to register his protest .,they finished the game under protest to the league president .,1,174
+operation,operation,the plane 's operation in high winds .,the power of its engine determines its operation .,1,175
+strip,strip,he welded together some pieces of strip .,she did a strip right in front of everyone .,0,176
+toss,toss,i 'll toss you for it .,steve tossed john the ball .,1,177
+squeaker,squeaker,which hinge is the squeaker ?,those sneakers are squeakers .,1,178
+delta,delta,the nile delta .,the mississippi river delta .,1,179
+sign,sign,please sign on the dotted line .,please sign here .,1,180
+capacity,capacity,limited runway capacity .,he should be retained in his present capacity at a higher salary .,0,181
+frame,frame,a lace frame .,his starved flesh hung loosely on his once imposing frame .,0,182
+solemnize,solemnize,"the couple chose to solemnize their relationship in a secular ceremony , instead of having a wedding .",the king solemnized this day of morning .,0,183
+drawing,drawing,the drawing of water from the well .,he did complicated pen - and - ink drawings like medieval miniatures .,0,184
+cup,cup,he put the cup back in the saucer .,the handle of the cup was missing .,1,185
+plan,plan,plan an attack .,he plans to be in graduate school next year .,0,186
+hit,hit,hit the bottle .,he tries to hit on women in bars .,0,187
+criticize,criticize,"those who criticize others often are not perfect , either .",the paper criticized the new movie .,0,188
+wake,wake,there 's no weeping at an irish wake .,the motorboat 's wake capsized the canoe .,0,189
+stream,stream,he felt a stream of air .,the hose ejected a stream of water .,1,190
+block,block,block the signals emitted by this station .,the thick curtain blocked the action on the stage .,0,191
+obstacle,obstacle,lack of imagination is an obstacle to one 's advancement .,the poverty of a district is an obstacle to good education .,1,192
+point,point,point a gun .,it 's rude to point at other people .,0,193
+draw,draw,the luck of the draw .,they anticipated a tough draw .,1,194
+embellish,embellish,"to embellish a story , the truth .",the old book cover was embellished with golden letters .,1,195
+glimpse,glimpse,from the window he could catch a glimpse of the lake .,he caught only a glimpse of the professor 's meaning .,0,196
+shuffle,shuffle,"you shuffle , i 'll deal .",shuffle the cards .,1,197
+bracket,bracket,please bracket this remark .,bracket bookshelves .,0,198
+vary,vary,prices vary .,his moods vary depending on the weather .,1,199
+abridge,abridge,the new law might abridge our freedom of expression .,he had his rights abridged by the crooked sheriff .,1,200
+attack,attack,he published an unexpected attack on my work .,an attack of diarrhea .,0,201
+revenge,revenge,indifference is the sweetest revenge .,"when i left my wife , she tried to set fire to the house in revenge .",1,202
+review,review,let 's review your situation .,"before i tackle the question directly , i must briefly review historical approaches to the problem .",1,203
+tilt,tilt,the court 's tilt toward conservative rulings .,the tower had a pronounced tilt .,0,204
+consult,consult,they had to consult before arriving at a decision .,consult your local broker .,1,205
+reline,reline,reline the paper .,the old fur coat must be relined .,0,206
+liberty,liberty,at liberty to choose whatever occupation one wishes .,liberty to think or feel or do just as one pleases .,1,207
+answer,answer,answer the question .,she did n't want to answer .,1,208
+carve,carve,carve one 's name into the bark .,that chisel carved the statue .,1,209
+square,square,the carpenter who built this room must have lost his square .,64 is the square of 8 .,0,210
+donate,donate,donate money to the orphanage .,i donated blood to the red cross for the victims of the earthquake .,1,211
+proliferate,proliferate,we must not proliferate nuclear arms .,the flowers proliferated rapidly all spring .,1,212
+hew,hew,hew out a path in the rock .,one of the most widely used typefaces in the world was hewn by the english printer and typographer john baskerville .,1,213
+keep,keep,can i keep my old stuffed animals ?,she kept her maiden name after she married .,1,214
+sophistication,sophistication,he practiced the art of sophistication upon reason .,understanding affine transformations requires considerable mathematical sophistication .,0,215
+shot,shot,he trained at putting the shot .,"the shot flew twenty metres , and nearly landed on the judge 's foot .",1,216
+muscle,muscle,the senators used their muscle to get the party leader to resign .,muscle consists largely of actin and myosin filaments .,0,217
+fiddle,fiddle,do n't fiddle with the screws .,she always fiddles with her van on the weekend .,0,218
+harass,harass,harass the enemy .,this man harasses his female co - workers .,0,219
+minister,minister,the minister said a prayer on behalf of the entire congregation .,clergymen are usually called ministers in protestant churches .,1,220
+sequence,sequence,he played the trumps in sequence .,the doctor saw a sequence of patients .,0,221
+abatement,abatement,the abatement of a nuisance is the suppression thereof .,laws enforcing noise abatement .,1,222
+incorporate,incorporate,incorporate this document with those pertaining to the same case .,the company was incorporated in 1980 .,0,223
+chew,chew,the steak was tough to chew as it had been cooked too long .,chew your food and do n't swallow it !,1,224
+conclusion,conclusion,the conclusion of the peace treaty .,the conclusion of a business deal .,1,225
+fiefdom,fiefdom,the duke 's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king .,"most of our company 's computers are standardized , but the it director allows the employees in his own little fiefdom to specify their own machines .",0,226
+marriage,marriage,a marriage of ideas .,the marriage of music and dance .,1,227
+button,button,"pat pushed the button marked "" shred "" on the blender .",the elevator was operated by push buttons .,1,228
+plant,plant,plant bugs in the dissident 's apartment .,plant a spy in moscow .,1,229
+accumulate,accumulate,he wishes to accumulate a sum of money .,journals are accumulating in my office .,1,230
+wrangle,wrangle,wrangle horses .,"the bar keeper threw them out , but they continued to wrangle on down the street .",0,231
+ticket,ticket,this car could be just the ticket for a small family .,joe will be running on an anti - crime ticket .,0,232
+shake,shake,shake the salt out of the salt shaker .,his hands shook .,0,233
+process,process,process iron .,they processed into the dining room .,0,234
+spread,spread,the infection spread .,optimism spread among the population .,1,235
+seize,seize,birds of prey often seize small mammals .,the invaders seized the land and property of the inhabitants .,0,236
+follow,follow,we must follow closely the economic development is cuba .,it follows that your assertion is false .,0,237
+pull,pull,it was a long pull but we made it .,he was sidelined with a hamstring pull .,0,238
+misdirect,misdirect,misdirect the letter .,the pedestrian misdirected the out - of - town driver .,0,239
+distribution,distribution,worldwide in distribution .,the distribution of nerve fibers .,1,240
+sit,sit,when does the court of law sit ?,in what city is the circuit court sitting for this session .,1,241
+command,command,to command an army or a ship .,command the military forces .,1,242
+touch,touch,he has a touch of rheumatism .,he longed for the touch of her hand .,0,243
+last,last,summer seems to last longer each year .,the bad weather lasted for three days .,1,244
+lead,lead,a good lead for a job .,"joe is a great addition to our sales team , he has numerous leads in the paper industry .",1,245
+contact,contact,i am trying to contact my sister .,he never contacted his children after he emigrated to australia .,1,246
+send,send,send me your latest results .,nora sent the book from paris .,1,247
+patronage,patronage,the restaurant had an upper class patronage .,even before noon there was a considerable patronage .,0,248
+exile,exile,he lived in exile .,she lived as an exile .,0,249
+bastion,bastion,the last bastion of communism .,a bastion against corruption .,1,250
+admit,admit,admit someone to the profession .,she was admitted to the new jersey bar .,1,251
+occurrence,occurrence,a disease of frequent occurrence .,the occurrence ( or presence ) of life on other planets .,1,252
+ease,ease,ease the pain in your legs .,the pain eased overnight .,0,253
+safety,safety,he ran to safety .,the reciprocal of safety is risk .,0,254
+save,save,the relief pitcher got credit for a save .,the goalie made a brilliant save .,1,255
+stop,stop,stop a car .,stop the thief .,1,256
+exalt,exalt,these paintings exalt the imagination .,the man was exalted from a humble carpenter to a minister .,0,257
+taste,taste,to ask at that particular time was the ultimate in bad taste .,he got a taste of life on the wild side .,0,258
+advantage,advantage,the enemy had the advantage of a more elevated position .,the experience gave him the advantage over me .,1,259
+deliberation,deliberation,it was the deliberation of his act that was insulting .,the deliberations of the jury .,0,260
+allowance,allowance,the captain was obliged to allowance his crew .,our provisions were allowanced .,1,261
+arousal,arousal,to influence the arousal of brain and behavior .,the purpose of art is the arousal of emotions .,1,262
+whimsy,whimsy,whimsy can be humorous to someone with time to enjoy it .,he had a whimsy about flying to the moon .,1,263
+strain,strain,do n't strain your mind too much .,the rope strained when the weight was attached .,0,264
+vision,vision,the runners emerged from the trees into his clear vision .,he had a vision of the virgin mary .,0,265
+relieve,relieve,this shall not relieve either party of any obligations .,the thief relieved me of $ 100 .,0,266
+vote,vote,i vote that we all go home .,she voted for going to the chinese restaurant .,1,267
+gap,gap,gap between income and outgo .,the exploring party went through the high gap in the mountains .,0,268
+partnership,partnership,the action teams worked in partnership with the government .,"effective language learning is a partnership between school , teacher and student .",1,269
+piece,piece,the children acted out a comic piece to amuse the guests .,he sacrificed a piece to get a strategic advantage .,0,270
+body,body,the body of the car was badly rusted .,administrative body .,0,271
+right,right,take a right at the corner .,film rights .,0,272
+fuel,fuel,more fuel is needed during the winter months .,they developed alternative fuels for aircraft .,1,273
+peg,peg,let 's peg the rug to the floor .,peg a tent .,1,274
+largeness,largeness,the might have repercussions of unimaginable largeness .,a man distinguished by the largeness and scope of his views .,0,275
+affect,affect,will the new rules affect me ?,the medicine affects my heart rate .,0,276
+hell,hell,war is hell .,the hell of battle .,0,277
+cost,cost,the average cost of a new house is twice as much as t was 20 years ago .,the total cost of the new complex was an estimated $ 1.5 million .,1,278
+parade,parade,"the floats and horses in the parade were impressive , but the marching bands were really amazing .",she made a parade of her sorrows .,0,279
+preparation,preparation,he left the preparation of meals to his wife .,the resolution of one dissonance is often the preparation for another dissonance .,0,280
+sort,sort,she served a creamy sort of dessert thing .,she wore a sort of magenta dress .,1,281
+refrigerate,refrigerate,please refrigerate your uncooked meats at or below 40 fahrenheit .,refrigerate this medicine .,1,282
+ash,ash,the woods planted in ash will see a different mix of species .,the ash trees are dying off .,1,283
+tradecraft,tradecraft,the cia chief of station accepted responsibility for his agents ' failures of tradecraft .,instructional designers are trained in something that might be called tradecraft .,1,284
+sense,sense,particle detectors sense ionization .,she immediately sensed her disdain .,0,285
+utter,utter,utter counterfeit currency .,he uttered strange sounds that nobody could understand .,0,286
+capital,capital,the drug capital of columbia .,the crime capital of italy .,1,287
+prepare,prepare,prepare for war .,we prepared a fish for dinner .,0,288
+gem,gem,he had the gem set in a ring for his wife .,she 's an absolute gem .,0,289
+part,part,the government must do its part .,religions in all parts of the world .,0,290
+rise,rise,rise to the occasion .,her spirits rose when she heard the good news .,0,291
+hook,hook,hook the ball .,his opponent hooked him badly .,0,292
+tool,tool,"he was a tool , no more than a pawn to her .",i do n't have the right tools to start fiddling around with the engine .,0,293
+life,life,real life .,it was a heavy play and the actors tried in vain to give life to it .,0,294
+result,result,result in tragedy .,this measure will result in good or in evil .,1,295
+story,story,the book tells the story of two roommates .,disney 's stories entertain adults as well as children .,1,296
+load,load,that 's a load off my mind .,i 'm worried that the load on that transformer will be too high .,0,297
+office,office,an executive or judical office .,during his first year in office .,0,298
+configure,configure,configure a plane for a combat mission .,configure my new computer .,1,299
+torrent,torrent,the houses were swept away in the torrent .,they endured a torrent of inquiries .,1,300
+choke,choke,choke a carburetor .,this neckband is choking the cat .,0,301
+embodiment,embodiment,the embodiment of hope .,a circle was the embodiment of his concept of life .,0,302
+date,date,his date never stopped talking .,the date for pleading .,0,303
+engrave,engrave,engrave a letter .,engrave a pen .,0,304
+blend,blend,` smog ' is a blend of ` smoke ' and ` fog ' .,their music has been described as a blend of jazz and heavy metal .,1,305
+aim,aim,she wanted to aim a pun .,he aimed his fists towards his opponent 's face .,0,306
+department,department,his work established a new department of literature .,baking is not my department .,1,307
+plume,plume,a plume of smoke .,grass with large plumes .,1,308
+curd,curd,bean curd .,lemon curd .,1,309
+rush,rush,the linebackers were ready to stop a rush .,come back after the rush .,0,310
+remover,remover,rust remover .,paint remover .,1,311
+care,care,he handled the vase with care .,care should be taken when holding babies .,0,312
+noise,noise,"he knew that it was trash day , when the garbage collectors made all the noise .",they heard indistinct noises of people talking .,0,313
+donate,donate,some of the members may donate privately .,she donates to her favorite charity every month .,1,314
+earshot,earshot,i 'll row out on the lake but stay within earshot .,the children were told to stay within earshot .,1,315
+home,home,canadian tariffs enabled united states lumber companies to raise prices at home .,his home is new jersey .,1,316
+member,member,canada is a member of the united nations .,the library was a member of the interlibrary loan association .,1,317
+class,class,an emerging professional class .,"apologizing for losing your temper , even though you were badly provoked , showed real class .",0,318
+disable,disable,disable this command on your computer .,he was disabled in a car accident .,0,319
+moderate,moderate,to moderate a synod .,john moderated the discussion .,1,320
+horse,horse,a clothes horse .,500 horse led the attack .,0,321
+tree,tree,her dog likes to tree squirrels .,this lot should be treed so that the house will be shaded in summer .,0,322
+attitude,attitude,the airliner had to land with a nose - up attitude after the incident .,the actor struck just the right attitude .,0,323
+afford,afford,we ca n't afford to send our children to college .,can you afford this car ?,1,324
+renovate,renovate,this will renovate my spirits .,they renovated the ceiling of the sistine chapel .,0,325
+wateriness,wateriness,the wateriness of his blood .,the haziness and wateriness of his disquisitions .,1,326
+continent,continent,pioneers had to cross the continent on foot .,there are seven continents .,1,327
+break,break,make a break for it .,he finally got his big break .,0,328
+operation,operation,they organized a rescue operation .,consolidate the companies various operations .,1,329
+check,check,as he called the role he put a check mark by each student 's name .,a check on its dependability under stress .,0,330
+influence,influence,he was a bad influence on the children .,used her parents ' influence to get the job .,0,331
+scrub,scrub,surgeons must scrub prior to an operation .,she scrubbed his back .,0,332
+facility,facility,the assembly plant is an enormous facility .,educational facilities .,0,333
+wine,wine,she ordered some wine for the meal .,wine is stronger than beer .,1,334
+closure,closure,they regretted the closure of the day care center .,he needed to grieve before he could achieve a sense of closure .,0,335
+cuisine,cuisine,the restaurant is noted for its excellent cuisine .,french cuisine is considered to be one of the world 's most refined and elegant styles of cooking .,1,336
+peak,peak,the peak of perfection .,the view from the peak was magnificent .,0,337
+liberate,liberate,to liberate the mind from prejudice .,to liberate gases .,1,338
+trip,trip,a pedestrian was able to trip the burglar as he was running away .,the questions on the test tripped him up .,1,339
+ball,ball,the ball at the base of the thumb .,he stood on the balls of his feet .,1,340
+move,move,it 's your move ! roll the dice !,"if you roll a six , you can make two moves .",1,341
+slip,slip,slip into something comfortable .,my grades are slipping .,0,342
+flush,flush,flush the meadows .,the sky flushed with rosy splendor .,0,343
+comb,comb,comb the wool .,comb your hair before dinner .,1,344
+walk,walk,after the blizzard he shoveled the front walk .,walking is a healthy form of exercise .,0,345
+blockage,blockage,"there was a blockage in the sewer , so we called out the plumber .",we had to call a plumber to clear out the blockage in the drainpipe .,0,346
+collapse,collapse,collapse the music stand .,the school system is collapsing .,0,347
+sleep,sleep,we sleep five people in each room .,this tent sleeps six people .,1,348
+shape,shape,geometry is the mathematical science of shape .,he could barely make out their shapes .,0,349
+leave,leave,leave your child the nurse 's care .,he left the decision to his deputy .,1,350
+aliyah,aliyah,students making aliyah .,he was called on for an aliyah .,0,351
+lay,lay,to lay a tax on land .,lay a responsibility on someone .,1,352
+thing,thing,a thing of the spirit .,things of the heart .,1,353
+acquaintance,acquaintance,i know of the man ; but have no acquaintance with him .,i have trouble remembering the names of all my acquaintances .,0,354
+sign,sign,sign an intersection .,this road has been signed .,1,355
+street,street,be careful crossing the street .,the whole street protested the absence of lights .,0,356
+fuss,fuss,do n't fuss too much over the grandchildren -- they are quite big now .,she fusses over her husband .,0,357
+affair,affair,it is none of your affair .,he used a hook - shaped affair with a long handle to unlock the car .,1,358
+direct,direct,"direct your anger towards others , not towards yourself .",he directed all his energies into his dissertation .,0,359
+characterize,characterize,you can characterize his behavior as that of an egotist .,this poem can be characterized as a lament for a dead lover .,1,360
+strangle,strangle,the imperialist nation wanted to strangle the free trade between the two small countries .,a man in boston has been strangling several dozen prostitutes .,0,361
+board,board,the board has seven members .,he got out the board and set up the pieces .,0,362
+grip,grip,in britain they call a bobby pin a grip .,they kept a firm grip on the two top priorities .,0,363
+swear,swear,i swear by my grandmother 's recipes .,before god i swear i am innocent .,0,364
+gown,gown,the relations between town and gown are always sensitive .,"in the perennial town versus gown battles , townies win some violent battles , but the collegians are winning the war .",1,365
+triangulate,triangulate,triangulate the piece of cardboard .,the land surveyor worked by triangulating the plot .,0,366
+snap,snap,the infielder 's snap and throw was a single motion .,children can manage snaps better than buttons .,0,367
+say,say,what does the law say ?,the clock says noon .,0,368
+aptness,aptness,the aptness of men to follow example .,the aptness of iron to rust .,1,369
+pay,pay,he wasted his pay on drink .,many employers have rules designed to keep employees from comparing their pays .,1,370
+collapse,collapse,the collapse of the old star under its own gravity .,the roof is in danger of collapse .,1,371
+go,go,it 's my go .,i 'll give it a go .,0,372
+go,go,how did your interview go ?,"she was going that way anyway , so she offered to show him where it was .",1,373
+shot,shot,the nurse gave him a flu shot .,he tried to get unposed shots of his friends .,0,374
+mixture,mixture,he drank a mixture of beer and lemonade .,the mixture of sulphuric acid and water produces heat .,0,375
+abuse,abuse,"all abuse , whether physical , verbal , psychological or sexual , is bad .",the child showed signs of physical abuse .,1,376
+breeze,breeze,the breeze rustled the papers on her desk .,the breeze was cooled by the lake .,1,377
+floss,floss,she flossed her teeth .,the hygienist flossed my teeth .,1,378
+refresher,refresher,the nap was a welcome refresher .,he stopped at the bar for a quick refresher .,1,379
+violate,violate,violate the sanctity of the church .,this sentence violates the rules of syntax .,0,380
+barrage,barrage,a barrage of questions .,they laid down a barrage in front of the advancing troops .,0,381
+work,work,the symphony was hailed as an ingenious work .,erosion is the work of wind or water over time .,1,382
+transfer,transfer,the transfer of the music from record to tape suppressed much of the background noise .,the best student was a transfer from lsu .,0,383
+homogenization,homogenization,the homogenization of cream .,the network 's homogenization of political news .,1,384
+intellect,intellect,he has a keen intellect .,some of the world 's leading intellects were meeting there .,0,385
+toilet,toilet,he made his morning toilet and went to breakfast .,pensions are in the toilet .,0,386
+military,military,their military is the largest in the region .,he spent six years in the military .,1,387
+leave,leave,leave lots of time for the trip .,this leaves no room for improvement .,1,388
+scraping,scraping,all that bowing and scraping did not impress him .,they collected blood scrapings for analysis .,0,389
+breed,breed,google represents a new breed of entrepreneurs .,a breed of tulip .,0,390
+section,section,there are three synagogues in the jewish section .,sections from the left ventricle showed diseased tissue .,0,391
+pound,pound,the locks pound the water of the canal .,pound the roots with a heavy flat stone .,0,392
+connection,connection,the bus was late so he missed his connection at penn station and had to wait six hours for the next train .,the plane was late and he missed his connection in atlanta .,1,393
+mechanism,mechanism,a mechanism of social control .,mechanisms of communication .,1,394
+gargle,gargle,gargle with this liquid .,every morning he gargled a little cheap scotch .,1,395
+bang,bang,he got a bang on the head .,they got a great bang out of it .,0,396
+activity,activity,catalytic activity .,they avoided all recreational activity .,0,397
+terror,terror,he used terror to make them confess .,he was the terror of the neighborhood .,0,398
+landing,landing,the plane made a smooth landing .,his landing on his feet was catlike .,1,399
+flowage,flowage,rock fracture and rock flowage are different types of geological deformation .,many campsites were located near the flowage .,0,400
+denizen,denizen,the bald eagle is a denizen of the northern part of the state .,the giant squid is one of many denizens of the deep .,0,401
+sensation,sensation,the news caused a sensation .,a sensation of touch .,0,402
+state,state,state your name .,state your opinion .,1,403
+foot,foot,we went there by foot because we could not afford a taxi .,there is a lot of foot traffic on this street .,1,404
+dollar,dollar,he worships the almighty dollar .,the dollar coin has never been popular in the united states .,0,405
+view,view,they look the same in outward view .,the most desirable feature of the park are the beautiful views .,0,406
+need,need,i need him to be nice .,i needed him to go .,1,407
+role,role,my neighbor was the lead role in last year 's village play .,play its role .,0,408
+policy,policy,you should have read the small print on your policy .,it was a policy of retribution .,0,409
+urgency,urgency,they departed hurriedly because of some great urgency in their affairs .,"i 'll be there , barring any urgencies .",1,410
+book,book,i am reading a good book on economics .,he was frustrated because he could n't find anything about dinosaurs in the book .,1,411
+scrap,scrap,the unhappy couple got into a terrible scrap .,that car is n't good for anything but scrap .,0,412
+mess,mess,i mess with the wardroom officers .,the afternoon breeze messed up my hair .,0,413
+recognition,recognition,territorial disputes were resolved in guatemala 's recognition of belize in 1991 .,the partners were delighted with the recognition of their work .,0,414
+hitter,hitter,a hard hitter .,blacksmiths are good hitters .,1,415
+affiliation,affiliation,a valuable financial affiliation .,welcomed the affiliation of the research center with the university .,0,416
+mate,mate,he 's my best mate .,i 'm going to the pub with a few mates .,1,417
+middle,middle,"in the middle of the marathon , david collapsed from fatigue .",rain during the middle of april .,0,418
+diet,diet,the diet of the giant panda consists mainly of bamboo .,he 's been reading a steady diet of nonfiction for the last several years .,0,419
+induction,induction,he was ordered to report for induction into the army .,the induction of an anesthetic state .,0,420
+bull,bull,to bull railroad bonds .,he bulled his way in .,0,421
+impregnation,impregnation,the impregnation of wood with preservative .,"the impregnation , whatever it was , had turned the rock blue .",0,422
+escalation,escalation,higher wages caused an escalation of prices .,there was a gradual escalation of hostilities .,1,423
+motivation,motivation,we did not understand his motivation .,his motivation was at a high level .,0,424
+identity,identity,"a right identity , x * i = x for any x in the structure .",you can lose your identity when you join the army .,0,425
+holiday,holiday,today is a wiccan holiday !,no mail is delivered on federal holidays .,1,426
+fire,fire,clinton directed his fire at the republican party .,there was a fire at the school last night and the whole place burned down .,0,427
+average,average,"if you average 10 , 20 and 24 , you get 18 .",the number of hours i work per work averages out to 40 .,0,428
+addition,addition,the addition of a leap day every four years .,the addition of a bathroom was a major improvement .,0,429
+segment,segment,segment a compound word .,segment an orange .,1,430
+shoot,shoot,shoot cloth .,shoot a star .,0,431
+education,education,a girl 's education was less important than a boy 's .,education is a preparation for life .,1,432
+succession,succession,a succession of failures .,a succession of stalls offering soft drinks .,1,433
+erase,erase,the files will erase quickly .,the chalkboard erased easily .,1,434
+crush,crush,to crush grapes .,the car crushed the toy .,0,435
+figure,figure,elections figure prominently in every government program .,how do the elections figure in the current pattern of internal politics ?,1,436
+eliminate,eliminate,let 's eliminate the course on akkadian hieroglyphics .,this possibility can be eliminated from our consideration .,0,437
+house,house,he counted the house .,the house applauded .,1,438
+cooperation,cooperation,economic cooperation .,they agreed on a policy of cooperation .,1,439
+indent,indent,indent the documents .,indent the paragraphs of a letter .,0,440
+militia,militia,their troops were untrained militia .,congress shall have power to provide for calling forth the militia -- united states constitution .,1,441
+probation,probation,probation is part of the sentencing process .,"you 'll be on probation for first six months . after that , if you work out , they 'll hire you permanently .",0,442
+bag,bag,bag a few pheasants .,we bagged three deer yesterday .,1,443
+herald,herald,rouge dragon is a herald at the college of arms .,the chieftain had a herald who announced his arrival with a trumpet .,1,444
+detention,detention,his detention was politically motivated .,the detention of tardy pupils .,0,445
+spread,spread,the invaders spread their language all over the country .,a big oil spot spread across the water .,0,446
+accession,accession,accession to such demands would set a dangerous precedent .,the librarian shelved the new accessions .,0,447
+switch,switch,switch to a different brand of beer .,i want to switch this red dress for a green one .,0,448
+hang,hang,let 's hang this cute animal in the nursery .,hang wallpaper .,1,449
+association,association,you can not be convicted of criminal guilt by association .,he joined the modern language association .,0,450
+drop,drop,it was a miracle that he survived the drop from that height .,"that was a long drop , but fortunately i did n't break any bones .",0,451
+precaution,precaution,he put an ice pack on the injury as a precaution .,to take precautions against risks of accident .,1,452
+experience,experience,a surprising experience .,experience is the best teacher .,0,453
+undo,undo,undo the shoelace .,a single mistake undid the president and he had to resign .,0,454
+relief,relief,he has been on relief for many years .,was the relief supposed to be protection from future harm or compensation for past injury ?,0,455
+adhocracy,adhocracy,the need for informational flexibility can lead to adhocracy .,the choice between bureaucracy and adhocracy represents a common dilemma .,1,456
+nightlife,nightlife,in the summer the nightlife shifts to the dance clubs .,a futile search for intelligent nightlife .,1,457
+pencil,pencil,an eyebrow pencil .,this artist 's favorite medium is pencil .,0,458
+poster,poster,i saw a poster for it on the side of a bus .,a poster advertised the coming attractions .,1,459
+word,word,we had a word or two about it .,"there was then a long discussion of whether to capitalize words like "" east "" .",1,460
+want,want,want the strength to go on living .,flood victims wanting food and shelter .,1,461
+gauntlet,gauntlet,threw down the gauntlet .,took up the gauntlet .,1,462
+bull,bull,he was a bull of a man .,he made a bad bull of the assignment .,0,463
+flick,flick,flick a piece of paper across the table .,he flicked his bic .,0,464
+treatment,treatment,his treatment of the race question is badly biased .,his treatment of space borrows from italian architecture .,0,465
+authority,authority,she lost all her respect and authority after turning up drunk to the meeting .,this book is the final authority on the life of milton .,0,466
+grunt,grunt,he went from grunt to chairman in six years .,infantrymen in vietnam were called grunts .,1,467
+toast,toast,that toaster can make wonderful toasts .,i ate a piece of toast for breakfast .,1,468
+hour,hour,we live an hour from the airport .,it was their finest hour .,0,469
+dig,dig,they set up camp next to the dig .,she takes a dig at me every chance she gets .,0,470
+dish,dish,they served me a dish of rice .,we gave them a set of dishes for a wedding present .,0,471
+death,death,the animal died a painful death .,he seemed more content in death than he had ever been in life .,0,472
+upgrade,upgrade,the power plant received a new upgrade .,"with my phone company , i get a free upgrade every twelve months if i keep topping up 10 pounds a month .",1,473
+afflict,afflict,afflict with the plague .,she was afflicted by the death of her parents .,0,474
+post,post,post a warning at the dump .,the newspaper posted him in timbuktu .,0,475
+group,group,there is a group of houses behind the hill .,a group of people gathered in front of the parliament to demonstrate against the prime minister 's proposals .,1,476
+pinnacle,pinnacle,pinnacle a pediment .,he did not want to be pinnacled .,0,477
+bite,bite,gunny invariably tried to bite her .,"as soon as you bite that sandwich , you 'll know how good it is .",1,478
+finalize,finalize,let 's finalize the proposal .,"as soon as we get the plane tickets , we 'll finalize our reservations with the hotel .",1,479
+lie,lie,lie down on the bed until you feel better .,she lied when she told me she was only 29 .,0,480
+agency,agency,she has free agency .,central intelligence agency .,0,481
+string,string,a string of islands .,the strings played superlatively well .,0,482
+gnash,gnash,to gnash the air in fury .,to gnash a carpet .,1,483
+twist,twist,do n't twist my words .,twist the dough into a braid .,0,484
+invite,invite,can i invite you for dinner on sunday night ?,the organizers invite submissions of papers for the conference .,0,485
+brush,brush,brush aside the objections .,brush the dust from the jacket .,1,486
+dad,dad,he had n't seen his dad in years .,"dad , happy father 's day !",1,487
+render,render,render the brick walls in the den .,the face of the child is rendered with much tenderness in this painting .,0,488
+kinship,kinship,anthropology 's kinship with the humanities .,felt a deep kinship with the other students .,1,489
+agency,agency,the superintendence and agency of providence in the natural world . --woodward .,the central intelligence agency .,0,490
+breakdown,breakdown,"after so much stress , he suffered a breakdown and simply gave up .",his warning came after the breakdown of talks in london .,0,491
+combust,combust,we combust coal and other fossil fuels .,the professor combusted when the student did n't know the answer to a very elementary question .,0,492
+writing,writing,writing was a form of therapy for him .,the idea occurs with increasing frequency in hemingway 's writings .,0,493
+inadequacy,inadequacy,juvenile offenses often reflect an inadequacy in the parents .,the inadequacy of unemployment benefits .,0,494
+step,step,always a step behind .,keep in step with the fashions .,1,495
+flip,flip,i 'd flip if anyone broke my phone .,he flipped when he heard that he was accepted into princeton university .,0,496
+reappearance,reappearance,the reappearance of halley 's comet .,his reappearance as hamlet has been long awaited .,0,497
+usage,usage,english usage .,a usage borrowed from french .,1,498
+gig,gig,they played a gig in new jersey .,our guitar player had another gig so we had to get a sub .,1,499
+demon,demon,she 's a demon at math .,he worked like a demon to finish the job on time .,1,500
+eccentricity,eccentricity,"for an ellipse , the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi - major axis .",a circle is an ellipse with zero eccentricity .,1,501
+allowance,allowance,my weekly allowance of two eggs .,travel allowance .,1,502
+transplant,transplant,these delicate plants do not transplant easily .,transplant the young rice plants .,0,503
+middle,middle,i woke up in the middle of the night .,"a whole is that which has beginning , middle , and end - aristotle .",1,504
+spin,spin,the campaign put a favorable spin on the story .,the skaters demonstrated their spins .,0,505
+heel,heel,heel a golf ball .,heel that dance .,0,506
+socialization,socialization,"force socialization rarely creates strong friendships , but there are exceptions .",there was too much socialization with the enlisted men .,1,507
+attend,attend,i rarely attend services at my church .,she attends class regularly .,1,508
+oppression,oppression,the tyrant 's oppression of the people .,the oppression of the poor by the aristocracy was one cause of the french revolution .,1,509
+tap,tap,tap a cask of wine .,he tapped a new barrel of beer .,1,510
+touch,touch,"please can i have a look , if i promise not to touch ?",carrie touched his shoulder with the stick .,1,511
+work,work,he was indebted to the pioneering work of john dewey .,the work of an active imagination .,1,512
+construction,construction,the engineer marvelled at his construction .,construction is underway on the new bridge .,0,513
+catch,catch,i would love to have dinner but i have to catch a plane .,we caught something of his theory in the lecture .,0,514
+segregate,segregate,experiments show clearly that genes segregate .,many towns segregated into new counties .,1,515
+border,border,the rug had a wide blue border .,the borders of the garden .,1,516
+scavenge,scavenge,hyenas scavenge .,she scavenged the garbage cans for food .,0,517
+manipulation,manipulation,his manipulation of his friends was scandalous .,he found that the new manager was known for his machiavellian manipulations in his last two positions .,1,518
+flood,flood,flood the market with tennis shoes .,the swollen river flooded the village .,0,519
+steam,steam,just steam the vegetables .,her indifference to his amorous advances really steamed the young man .,0,520
+foundation,foundation,he lacks the foundation necessary for advanced study .,"the wikimedia foundation , inc. is the parent organization of the wiktionary collaborative project .",0,521
+twilight,twilight,i could just make out her face in the twilight .,he loved the twilight .,0,522
+rank,rank,the strike was supported by the union rank and file .,he rose from the ranks to become a colonel .,1,523
+delight,delight,the new car is a delight .,his delight to see her was obvious to all .,0,524
+path,path,the path of virtue .,our paths in life led us apart .,1,525
+get,get,the operator could n't get kobe because of the earthquake .,i 'll get this finished by lunchtime .,0,526
+forwarding,forwarding,the forwarding of resumes to the personnel department .,the forwarding of mail to a new address is done automatically .,1,527
+fail,fail,did i fail the test ?,she studied hard but failed nevertheless .,1,528
+dimple,dimple,the accident created a dimple in the hood of the car .,there are approximately 336 dimples on a golf ball .,1,529
+pity,pity,it 's a pity he could n't do it .,the blind are too often objects of pity .,0,530
+rail,rail,he was concerned with rail safety .,he traveled by rail .,1,531
+preempt,preempt,discussion of the emergency situation will preempt the lecture by the professor .,live broadcast of the presidential debate preempts the regular news hour .,1,532
+assumption,assumption,the nazi assumption of power in 1934 .,he acquired all the company 's assets for ten million dollars and the assumption of the company 's debts .,1,533
+brother,brother,i would like to thank the brother who just spoke .,none of his brothers would betray him .,1,534
+recruit,recruit,recruit new soldiers .,the lab director recruited an able crew of assistants .,0,535
+upset,upset,truman upset dewey in the 1948 us presidential election .,the foreign team upset the local team .,1,536
+show,show,a show of impatience .,a good show of looking interested .,1,537
+fondler,fondler,the woman charged that her jailer was a fondler .,not all fondlers are sexual perverts .,1,538
+body,body,the whole body filed out of the auditorium .,the student body .,1,539
+destroy,destroy,hooligans destroy unprovoked .,the fire destroyed the house .,1,540
+confusion,confusion,the army retreated in confusion .,a confusion of impressions .,0,541
+stress,stress,some people put the stress on the first syllable of “ controversy ” ; others put it on the second .,the intensity of stress is expressed in units of force divided by units of area .,0,542
+inject,inject,inject hydrogen into the balloon .,now lie back while we inject you with the anesthetic .,0,543
+custody,custody,he was mistreated while in police custody .,he is in the custody of police .,1,544
+gesture,gesture,a political gesture .,a gesture of defiance .,1,545
+cleat,cleat,cleat running shoes for better traction .,cleat a line .,0,546
+repair,repair,one can never fully repair the suffering and losses of the jews in the third reich .,she repaired her tv set .,0,547
+fold,fold,fold up the newspaper .,tony folded the flaps open .,1,548
+piano,piano,most of the works by frédéric chopin are for the piano .,"he can play "" happy birthday "" on the piano .",1,549
+decussate,decussate,the fibers decussate .,this nerve decussates the other .,1,550
+grind,grind,grind lenses for glasses and cameras .,grind an axe .,1,551
+wail,wail,wail in self - pity .,she wailed with pain .,0,552
+form,form,"by adding "" -ness "" , you can form a noun from an adjective .",form cylinders from the dough .,0,553
+pronunciation,pronunciation,that is the correct pronunciation .,the pronunciation of chinese is difficult for foreigners .,1,554
+criticism,criticism,the senator received severe criticism from his opponent .,the politician received a lot of public criticism for his controversial stance on the issue .,0,555
+wrong,wrong,injustice is a heinous wrong .,he feels that you are in the wrong .,1,556
+fatigue,fatigue,growing fatigue was apparent from the decline in the execution of their athletic skills .,he was hospitalized for extreme fatigue .,1,557
+cross,cross,a mule is a cross between a horse and a donkey .,that is his cross to bear .,0,558
+handle,handle,do n't handle the merchandise .,"about his altar , handling holy things - john milton .",1,559
+hail,hail,hail a cab .,he was hailed as a hero .,1,560
+stabilize,stabilize,the country will stabilize after the next election ends .,the economy stabilized .,1,561
+expect,expect,i expect to receive wages .,we were expecting a visit from our relatives .,1,562
+shower,shower,the game was interrupted by a brief shower .,a little shower of rose petals .,0,563
+promulgation,promulgation,the promulgation was written in english .,his promulgation of the policy proved to be premature .,0,564
+hostility,hostility,he could not conceal his hostility .,he could no longer contain his hostility .,0,565
+clap,clap,the children began to clap in time with the music .,the big bird clapped its wings .,0,566
+clime,clime,plants from a cold clime travel best in winter .,"after working hard all of his life , max retired to warmer climes in florida .",1,567
+deal,deal,a deal of trouble .,he made a deal with the devil .,0,568
+listen,listen,please listen carefully as i explain .,i like to listen to music .,1,569
+party,party,the party of the first part .,he planned a party to celebrate bastille day .,0,570
+section,section,the history of this work is discussed in the next section .,a graduate student taught sections for the professor 's lecture course .,0,571
+conserve,conserve,conserve your energy for the ascent to the summit .,mom always conserved the strawberries we grew in the backyard .,0,572
+joy,joy,a joy to behold .,the joys and demands of parenthood .,0,573
+create,create,create a poem .,create one a peer .,0,574
+surface,surface,it was not what it appeared to be on the surface .,the cloth had a pattern of red dots on a white surface .,0,575
+setting,setting,a place setting of sterling flatware .,he changed the setting on the thermostat .,0,576
+bane,bane,the bane of my existence .,the bane of my life .,1,577
+license,license,the intolerable license with which the newspapers break ... the rules of decorum - edmund burke .,when liberty becomes license dictatorship is near - will durant .,1,578
+bend,bend,the stick does not bend .,bend your knees .,0,579
+act,act,"she wants to act lady macbeth , but she is too young for the role .",i started acting at the age of eleven in my local theatre .,1,580
+worship,worship,they worship in the traditional manner .,many hindus worship shiva .,0,581
+minute,minute,"wait a minute , i 'm not ready yet !",it only takes a minute .,1,582
+glow,glow,a glow of regret .,the glow of new love .,1,583
+prohibition,prohibition,they were restrained by a prohibition in their charter .,in 1920 the 18th amendment to the constitution established prohibition in the us .,0,584
+near,near,they are nearing the coast .,the ship nears the land .,1,585
+distance,distance,i could see it in the distance .,the distance from new york to chicago .,0,586
+strand,strand,a strand of pearls .,he tried to pick up the strands of his former life .,0,587
+activity,activity,the level of activity declines with age .,his sphere of activity .,0,588
+delay,delay,instant replay caused too long a delay .,the delay before the echo of a sound .,0,589
+dip,dip,dip the brush into the paint .,she dipped her knee .,0,590
+bye,bye,he had a bye in the first round .,craig 's crew plays the bye next week .,1,591
+subsidy,subsidy,a subsidy for research in artificial intelligence .,manufacturing firms are supported by government subsidies in some countries .,1,592
+fuel,fuel,"fuel aircraft , ships , and cars .",fuel the debate on creationism .,0,593
+club,club,each club played six home games with teams in its own division .,he played the drums at a jazz club .,0,594
+longevity,longevity,had unusual longevity in the company .,her longevity as a star .,1,595
+appreciate,appreciate,i appreciate your efforts .,the yen appreciated again !,0,596
+preponderance,preponderance,the preponderance of good over evil .,the preponderance of wealth and power .,1,597
+youth,youth,youth everywhere rises in revolt .,her youth and beauty is what attracted him to her .,0,598
+probity,probity,in a world where financial probity may not be widespread .,he enjoys an exaggerated reputation for probity .,1,599
+explanation,explanation,the explanation was very simple .,the explanation was long and drawn - out .,1,600
+inject,inject,inject heroin .,he injected new life into the performance .,0,601
+force,force,a force out was recorded on the scorecard .,a public force is necessary to give security to the rights of citizens .,0,602
+preserve,preserve,preserve the peace in the family .,to preserve silence .,1,603
+restraint,restraint,the room was simply decorated with great restraint .,the car did not have proper restraints fitted .,0,604
+log,log,they kept a log of all transmission by the radio station .,an email log .,1,605
+cost,cost,these shoes cost $ 100 .,the bill will cost them 500 million dollars .,1,606
+professionalization,professionalization,the professionalization of warfare .,the professionalization of american sports .,1,607
+pocket,pocket,lydia put the change in her left pocket .,lydia pocketed the change .,1,608
+stab,stab,he took a stab at forecasting .,she felt a stab of excitement .,0,609
+roll,roll,the roll of a ball .,look at the roll of the waves .,1,610
+property,property,he is a man of property .,that hat is my property .,1,611
+success,success,his success in the marathon was unexpected .,the election was a remarkable success for the whigs .,0,612
+sexualize,sexualize,some languages sexualize all nouns and do not have a neuter gender .,the god was sexualized and married to another god .,1,613
+wish,wish,it was his last wish .,they should respect the wishes of the people .,1,614
+sultriness,sultriness,the sultriness of her look was unmistakable .,the sultriness of lust was in the air .,1,615
+crisis,crisis,they went bankrupt during the economic crisis .,after the crisis the patient either dies or gets better .,0,616
+reality,reality,the reality of his situation slowly dawned on him .,the reality of the crash scene on tv dawned upon him only when he saw the victim was no actor but his friend .,1,617
+defense,defense,they died in the defense of stalingrad .,they were developed for the defense program .,1,618
+forbid,forbid,i forbid you to call me late at night .,the rules forbid it .,1,619
+update,update,i need to update my records to take account of the most recent transaction .,we updated the kitchen in the old house .,1,620
+sound,sound,the main body of the sound ran parallel to the coast .,he strained to hear the faint sounds .,0,621
+system,system,that language has a complex system for indicating gender .,they have to operate under a system they oppose .,1,622
+easiness,easiness,the very easiness of the deed held her back .,there was an easiness between them .,0,623
+mire,mire,to mire a horse or wagon .,our people should not be mired in the past .,0,624
+spend,spend,spend money .,he spends far more on gambling than he does on living proper .,1,625
+reverence,reverence,the french treat food with gentle reverence .,the chinese reverence for the dead .,1,626
+buy,buy,$ 50 wo n't even buy a dress .,fmc has bought 565 .,1,627
+instruction,instruction,students receive instruction in the arts and sciences .,instruction will be provided on how to handle difficult customers .,1,628
+extension,extension,the dancer was praised for her uncanny extension .,good extension comes from a combination of training and native ability .,1,629
+believe,believe,we did n't believe his stories from the war .,i believed his report .,1,630
+heritage,heritage,the world 's heritage of knowledge .,a heritage of freedom .,0,631
+caller,caller,- who 's the caller ?,there were so many callers that he finally disconnected the telephone .,1,632
+base,base,he told the painter that he wanted a yellow base with just a hint of green .,bases include oxides and hydroxides of metals and ammonia .,0,633
+power,power,he needed a lot of power to hit the ball out of the stadium .,the mysterious presence of an evil power .,0,634
+portmanteau,portmanteau,` brunch ' is a well - known portmanteau .,` motel ' is a portmanteau word made by combining ` motor ' and ` hotel ' .,1,635
+promise,promise,i promise you my best effort .,i promised somebody my time .,1,636
+pierce,pierce,to pierce a mystery .,the path pierced the jungle .,0,637
