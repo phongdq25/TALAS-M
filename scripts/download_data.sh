@@ -1,1 +1,1 @@
-hf download phongdq/TALAS-M-Datasets --repo-type dataset --local-dir data
+hf download phongdq/TALAS-M-Datasets --repo-type dataset --local-dir data  --max-workers 2
