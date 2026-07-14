@@ -1,0 +1,33 @@
+[project]
+name = "talas"
+version = "0.1.0"
+description = "Add your description here"
+readme = "readme.md"
+requires-python = "==3.10.*"
+
+
+dependencies = [
+    "datasets",
+    "peft==0.18.1",
+    "transformers==4.57.3",
+    "trl==0.21.0",
+    "typer>=0.15.2",
+    "wandb",
+    "yq>=3.4.3",
+    "nltk",
+    "numerize",
+    "torch==2.9.1",
+    "rouge-score",
+    "rich",
+    "setuptools",
+    "pandas",
+    "scikit-learn",
+    "tqdm",
+    "pytorch-optimizer",
+    "ipykernel"
+]
+
+[tool.uv]
+index-url = "https://pypi.org/simple"
+extra-index-url = ["https://download.pytorch.org/whl/cu128"]
+index-strategy = "unsafe-best-match"

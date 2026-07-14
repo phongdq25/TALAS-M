@@ -1,0 +1,1 @@
+hf download phongdq/MiniLMv2-Base  --repo-type model --local-dir ./models
