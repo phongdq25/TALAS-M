@@ -7,6 +7,8 @@
 
 > **TALAS-M** is an efficient embedding distillation framework that eliminates online teacher inference by training entirely on precomputed teacher embeddings, consistently outperforming strong distillation baselines across nine benchmarks.
 
+>Checkpoints are available on Hugging Face: https://huggingface.co/phongdq/TALAS-M-Ckpts
+
 ## Quick start
 
 - Colab example for the TALAS training workflow: 
@@ -52,7 +54,6 @@ source .venv/bin/activate
 ```sh
 ./scripts/download_model.sh
 ```
-
 ### Train
 
 ```sh
