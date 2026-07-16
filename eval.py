@@ -15,7 +15,7 @@ from eval_data import STSDataset, ClasssifyDataset, PairDataset
 from eval_config import test_clss_tasks, test_pair_tasks, test_sts_tasks
 
 
-def eval_sts(model, eval_loader):
+def eval_sts(model, eval_loader, cls_pooling):
     preds, labels = [], []
     device = model.device
 
@@ -32,8 +32,8 @@ def eval_sts(model, eval_loader):
                 out1 = model(input_ids=input_ids1, attention_mask=attn1)
                 out2 = model(input_ids=input_ids2, attention_mask=attn2)
 
-                emb1 = get_embedding(out1.last_hidden_state, attn1)
-                emb2 = get_embedding(out2.last_hidden_state, attn2)
+                emb1 = get_embedding(out1.last_hidden_state, attn1, cls_pooling)
+                emb2 = get_embedding(out2.last_hidden_state, attn2, cls_pooling)
 
                 # cosine similarity
                 sim = F.cosine_similarity(emb1, emb2)
@@ -47,7 +47,7 @@ def eval_sts(model, eval_loader):
 
     return spearman_corr
 
-def eval_sts_task(model, tokenizer, batch_size: int, path_list: list[str]):
+def eval_sts_task(model, tokenizer, batch_size: int, path_list: list[str], cls_pooling=False):
     model.eval()
     print('eval_sts_task')
     sum_spearman_corr = 0
@@ -60,7 +60,7 @@ def eval_sts_task(model, tokenizer, batch_size: int, path_list: list[str]):
             shuffle=False,
             collate_fn=lambda x: eval_dataset.collate_fn(x, tokenizer)
         )
-        spearman_corr = eval_sts(model, eval_loader)
+        spearman_corr = eval_sts(model, eval_loader, cls_pooling)
         sum_spearman_corr += spearman_corr
 
     model.train()
@@ -68,7 +68,7 @@ def eval_sts_task(model, tokenizer, batch_size: int, path_list: list[str]):
     return sum_spearman_corr / len(path_list)
 
 
-def eval_cls(model, eval_loader):
+def eval_cls(model, eval_loader, cls_pooling):
     preds, labels = [], []
     device = model.device
 
@@ -80,15 +80,15 @@ def eval_cls(model, eval_loader):
                 label = batch["labels"]
 
                 out1 = model(input_ids=input_ids1, attention_mask=attn1)
-                emb1 = get_embedding(out1.last_hidden_state, attn1)
+                emb1 = get_embedding(out1.last_hidden_state, attn1, cls_pooling)
 
                 preds.extend(emb1.cpu().numpy())
                 labels.extend(label.numpy())
 
     return preds, labels
 
-def eval_classification_task(model, tokenizer, 
-                             batch_size: int, path_list: list[tuple[str, str]]):
+def eval_classification_task(model, tokenizer, batch_size: int, 
+                             path_list: list[tuple[str, str]], cls_pooling=False):
     model.eval()
     print('classifier')
     sum_f1 = 0
@@ -111,8 +111,8 @@ def eval_classification_task(model, tokenizer,
             collate_fn=lambda x: train_dataset.collate_fn(x, tokenizer)
         )
 
-        X_train, y_train = eval_cls(model, train_loader)
-        X_test, y_test = eval_cls(model, eval_loader)
+        X_train, y_train = eval_cls(model, train_loader, cls_pooling)
+        X_test, y_test = eval_cls(model, eval_loader, cls_pooling)
 
         clf = LogisticRegression(
             random_state=42,
@@ -136,7 +136,7 @@ def eval_classification_task(model, tokenizer,
     return sum_f1 / len(path_list)
 
 
-def eval_pair(model, eval_loader):
+def eval_pair(model, eval_loader, cls_pooling):
     preds, labels = [], []
     device = model.device
 
@@ -153,8 +153,8 @@ def eval_pair(model, eval_loader):
                 out1 = model(input_ids=input_ids1, attention_mask=attn1)
                 out2 = model(input_ids=input_ids2, attention_mask=attn2)
 
-                emb1 = get_embedding(out1.last_hidden_state, attn1)
-                emb2 = get_embedding(out2.last_hidden_state, attn2)
+                emb1 = get_embedding(out1.last_hidden_state, attn1, cls_pooling)
+                emb2 = get_embedding(out2.last_hidden_state, attn2, cls_pooling)
 
                 # cosine similarity
                 sim = F.cosine_similarity(emb1, emb2)
@@ -185,7 +185,7 @@ def get_metric_pair_classification(scores, labels):
         "average_precision": average_precision_score(labels, scores)
     }
 
-def eval_pair_task(model, tokenizer, batch_size, path_list):
+def eval_pair_task(model, tokenizer, batch_size, path_list, cls_pooling=False):
     model.eval()
     print('eval_pair_task')
     sum_average_precision = 0
@@ -198,7 +198,7 @@ def eval_pair_task(model, tokenizer, batch_size, path_list):
             shuffle=False,
             collate_fn=lambda x: eval_dataset.collate_fn(x, tokenizer)
         )
-        metric = eval_pair(model, eval_loader)
+        metric = eval_pair(model, eval_loader, cls_pooling)
         sum_average_precision += metric['average_precision']
 
     model.train()
@@ -229,6 +229,13 @@ if __name__ == "__main__":
     )
 
     parser.add_argument(
+        "--cls_pooling",
+        type=int,
+        default=False,
+        help="Eval batch size",
+    )
+
+    parser.add_argument(
         "--device",
         type=str,
         default="cpu",
@@ -255,9 +262,12 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained(args.tokenizer)
 
 
-    avg_f1 = eval_classification_task(model, tokenizer, args.batch_size, test_clss_tasks)
-    avg_ap = eval_pair_task(model, tokenizer, args.batch_size, test_pair_tasks)
-    avg_spr = eval_sts_task(model, tokenizer, args.batch_size, test_sts_tasks)
+    avg_f1 = eval_classification_task(model, tokenizer, args.batch_size, 
+                                      test_clss_tasks, args.cls_pooling)
+    avg_ap = eval_pair_task(model, tokenizer, args.batch_size, 
+                            test_pair_tasks, args.cls_pooling)
+    avg_spr = eval_sts_task(model, tokenizer, args.batch_size, 
+                            test_sts_tasks, args.cls_pooling)
 
     print("avg_f1, avg_ap, avg_spr: ", avg_f1, avg_ap, avg_spr)
     print("AVG: ", (avg_f1 + avg_ap + avg_spr) / 3)
