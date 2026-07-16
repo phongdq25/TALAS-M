@@ -1,16 +1,16 @@
 export CUDA_VISIBLE_DEVICES=0
 python train_talas_m.py \
-    --student_model 'bert-base-uncased' \
+    --student_model './models/MiniLMv2-L6-H384-distilled-from-BERT-Base' \
     --student_tokenizer 'bert-base-uncased' \
     --train_data 'data/train_full.csv' \
-    --teacher_embedding_path 'data/teachers_embed_train/qwen3-4B-embedding-multi-data.pt' \
-    --output_dir='ckpt/bert/bert-checkpoint' \
+    --teacher_embedding_path 'data/teachers_embed_train/qwen3-0.6B-embedding-multi-data.pt' \
+    --output_dir='ckpt/mini384/checkpoint' \
     --batch_size 32 \
     --val_batch_size 128 \
     --passage_max_len 256 \
     --num_train_epochs 5 \
     --temperature 0.1 \
-    --learning_rate_muon 1.5e-3 \
+    --learning_rate_muon 1e-3 \
     --learning_rate_adamw 2e-5 \
     --weight_decay 0.01 \
     --warmup_ratio 0.05 \

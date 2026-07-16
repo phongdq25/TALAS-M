@@ -135,6 +135,13 @@ def parse_args() -> argparse.Namespace:
     )
 
     parser.add_argument(
+        "--cls_pooling",
+        type=bool,
+        default=False,
+        help="Use cls pooling",
+    )
+
+    parser.add_argument(
         "--device",
         type=str,
         default="cuda",

@@ -39,6 +39,7 @@ class Trainer:
         self.mse_loss = nn.MSELoss(reduction='mean')
 
         self.args = args
+        self.cls_pooling = args.cls_pooling
 
         self.step = 0
 
@@ -107,7 +108,7 @@ class Trainer:
         return self.cross_entropy(scores, target)
 
     def get_embedding(self, hidden_state, attention_mask):
-        return get_embedding(hidden_state, attention_mask)
+        return get_embedding(hidden_state, attention_mask, cls_pooling=self.cls_pooling)
 
     def compute_loss(self, student_inputs, teacher_embedings=None):
         inputs = {key: value.to(self.device) for key, value in student_inputs.items()}
