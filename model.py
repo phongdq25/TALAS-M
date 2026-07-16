@@ -6,6 +6,7 @@ from torch import nn
 def build_model(model_name, tokenizer_name, device) -> tuple[PreTrainedModel, AutoTokenizer]:
     model = AutoModel.from_pretrained(model_name, 
                                       device_map=device, 
+                                      torch_dtype=torch.float32,
                                       output_hidden_states=True)
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
     return model, tokenizer
