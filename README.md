@@ -1,5 +1,5 @@
 # TALAS-M: Teacher-Anchored Layer-Aligned Self-Distillation for Compact Embedding Models
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/status-research-blue" alt="Status" />
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License" />
