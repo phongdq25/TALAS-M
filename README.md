@@ -12,7 +12,7 @@
 ## Quick start
 
 - Colab example for the TALAS training workflow: 
-  <a href="https://colab.research.google.com/drive/1beVruI9MnmG2OcCNBKhhd9tUXIb46Wa4?usp=sharing">
+  <a href="https://colab.research.google.com/drive/1-dkAwzS2QlJlhHofRJKwaOP1_Fz5zcs-?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
   </a>
 
