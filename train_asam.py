@@ -48,7 +48,7 @@ def build_optimizer(args, model: PreTrainedModel,
             {"params": list(proj_hidden_layers.parameters()),  "lr": 1e-4, 'weight_decay': args.weight_decay},
         ],
         base_optimizer,
-        rho=0.1,
+        rho=0.05,
         adaptive=True,
     )
     return optimizer
