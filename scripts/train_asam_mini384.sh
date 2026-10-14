@@ -12,7 +12,7 @@ python train_asam.py \
     --temperature 0.1 \
     --learning_rate_adamw 2e-5 \
     --weight_decay 0.01 \
-    --warmup_ratio 0.05 \
+    --warmup_ratio 0.1 \
     --lambda1 0.001 \
     --lambda2 0.75 \
     --lambda3 1.0 \
